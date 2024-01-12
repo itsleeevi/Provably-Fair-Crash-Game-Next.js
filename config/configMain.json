@@ -1,0 +1,19 @@
+{
+  "WEB3": {
+    "NETWORK": {
+      "POLYGON": {
+        "CHAIN_ID": "0x89",
+        "CHAIN_DEC": "137",
+        "CHAIN_NAME": "Polygon Mainnet",
+        "CURRENCY_NAME:": "MATIC",
+        "CURRENCY_SYMBOL": "MATIC",
+        "WEBSOCKET": "wss://polygon-mainnet.g.alchemy.com/v2/rjeY5goYZFzQnms3ZkU1TtKL4DUHBA4W",
+        "RPC_PUBLIC": "https://polygon-mainnet.infura.io",
+        "RPC_PRIVATE": "https://polygon-mainnet.g.alchemy.com/v2/rjeY5goYZFzQnms3ZkU1TtKL4DUHBA4W",
+        "BLOCK_EXPLORER": "https:/polygonscan.com/",
+        "CONTRACT_ADDRESS": "0xA4970362441d478F62D37447F333a26A63Ab5f54",
+        "TOKEN_ADDRESS": "0xb5e0CFe1B4dB501aC003B740665bf43192cC7853"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "WEB3": {
+    "NETWORK": {
+      "POLYGON": {
+        "CHAIN_ID": "0x13881",
+        "CHAIN_DEC": "80001",
+        "CHAIN_NAME": "Polygon Mumbai",
+        "CURRENCY_NAME:": "MATIC",
+        "CURRENCY_SYMBOL": "MATIC",
+        "WEBSOCKET": "wss://polygon-mumbai.g.alchemy.com/v2/aOBEabvslTLT4HkleonpmH4Jh16ydYNH",
+        "RPC_PUBLIC": "https://polygon-mumbai.g.alchemy.com/v2/aOBEabvslTLT4HkleonpmH4Jh16ydYNH",
+        "RPC_PRIVATE": "https://polygon-mumbai.g.alchemy.com/v2/aOBEabvslTLT4HkleonpmH4Jh16ydYNH",
+        "BLOCK_EXPLORER": "https://mumbai.polygonscan.com/",
+        "CONTRACT_ADDRESS": "0x513c6c9D2CB16d707A7AF1Ae60D99Ef43df30591",
+        "TOKEN_ADDRESS": "0xe8f8aC9De378f93E48f2cED125AcAE77E0f8FBC5"
+      }
+    }
+  }
+}
